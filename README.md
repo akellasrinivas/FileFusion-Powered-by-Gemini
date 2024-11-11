@@ -20,14 +20,15 @@ This project enables users to interact with various document formats (PDF, Word,
 - **Pandas**: For reading and processing Excel and CSV files.
 - **dotenv**: For managing environment variables such as API keys.
 - **GitHub Actions** (optional, if you want CI/CD integration for deployments).
+## Usage
+- Upload one or more documents (PDF, Word, PPT, Excel, CSV) through the sidebar.
+- After the documents are processed, you can ask questions about the content of those documents.
+- The chatbot will provide answers based on the text extracted from the documents.
 
 ## Installation & Setup
 
-Follow these steps to run the project locally:
-
-### 1. Clone the Repository
-
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+pip install -r requirements.txt
 
-pip install -r requirements.txt 
+streamlit run app.py
+
