@@ -30,49 +30,48 @@ This project enables users to interact with various document formats (PDF, Word,
 
 1. Clone the repository:
 
-bash
+```bash
 git clone https://github.com/akellasrinivas/FileFusion-Powered-by-Gemini.git
-
+```
 
 2. Create a virtual environment:
-
-bash
+```bash
 python -m venv venv
-
+```
 
 3. Activate the virtual environment:
 
 - For Windows:
 
-bash
+```bash
 venv\Scripts\activate
-
+```
 
 - For macOS/Linux:
 
-bash
+```bash
 source venv/bin/activate
-
+```
 
 4. Install the required dependencies:
 
-bash
+```bash
 pip install -r requirements.txt
-
+```
 
 5. Set  Google Gemini API:
 - Obtain your Google Gemini API key from the Google Cloud Console.
 - Create a .env file in the root directory of the project and add your API key as follows:
 
-bash
+```bash
 GOOGLE_API_KEY=your_api_key_here
-
+```
 
 6. Start the application:
 
-bash
+```bash
 streamlit run app.py
-
+```
 
 
 7. Open your web browser and visit http://localhost:5000 to access the Application.
@@ -86,7 +85,7 @@ streamlit run app.py
 - CSV: Extracts text from CSV files
 
 ## Authors
-- Dadvaiah Pavan
+- Akella Srinivas
 
 ## Contribution
 
