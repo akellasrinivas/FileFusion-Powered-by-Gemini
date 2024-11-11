@@ -30,5 +30,5 @@ This project enables users to interact with various document formats (PDF, Word,
 ```bash
 pip install -r requirements.txt
 
-streamlit run app.py
+streamlit run nun.py
 
