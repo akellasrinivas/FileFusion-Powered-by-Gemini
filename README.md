@@ -30,7 +30,7 @@ This project enables users to interact with various document formats (PDF, Word,
 1. Clone the repository:
 
 bash
-git clone https://github.com/DadvaiahPavan/GeminiFileWiz.git
+git clone https://github.com/akellasrinivas/FileFusion-Powered-by-Gemini.git
 
 
 2. Create a virtual environment:
