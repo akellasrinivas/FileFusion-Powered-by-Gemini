@@ -1,4 +1,4 @@
-# Chat with Documents Powered by Gemini
+# FileFusion-Powered-by-Gemini
 
 This project enables users to interact with various document formats (PDF, Word, PowerPoint, Excel, CSV) using a chatbot interface powered by **Google Gemini** and **Langchain**. You can upload documents, extract their content, and ask questions about the content. The chatbot uses embeddings to provide intelligent answers based on the document's data.
 
