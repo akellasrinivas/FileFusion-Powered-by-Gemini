@@ -4,7 +4,7 @@ This project enables users to interact with various document formats (PDF, Word,
 
 ## Web UI
 
-![Web UI](images/Screenshot%202024-11-11%20133917.png)
+![Web UI](images/Screenshot%2024-11-11%151022.png) 
 
 ## Features
 
